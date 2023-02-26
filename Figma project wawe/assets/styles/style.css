@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('/assets/images/Rectangle75.png');
+    background-size: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+
+.logo {
+    display: inline;
+    padding-right: 80px;
+}
+
+a {
+    padding: 40px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', 'Times', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+}
+
+.dotmenu {
+    display: flex;
+    list-style-type: none;
+}
+
+.menuline2 {
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+}
+
+.wawe {
+    font-family: 'Raleway', 'Times', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 235px;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #0D302C;
+}
+
+.text {
+    font-family: 'Roboto Condensed', 'Times', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: black;
+}
+
+.vector {
+    padding: 60px;
+    margin-top: 200px;
+    text-align: center;
+}
